@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mrcz4x9vxgzoM0LwhM7YabjTMLU9SJf5QnM2B0AcC7uWPjkx3oYa4vUEAR4KS3atzxjjHzR0+0o9FWpivglNdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adeniyi Mary A\\Downloads\\Compressed\\Ex_Files_Building_Web_APIs_ASPNET_Core\\Exercise Files\\End_0608\\HPlusSport\\HPlusSport.ConsoleApp\\HPlusSport.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adeniyi Mary A\\.nuget\\packages\\identitymodel\\4.1.1\\identitymodel.4.1.1.nupkg.sha512",
+    "C:\\Users\\Adeniyi Mary A\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Adeniyi Mary A\\.nuget\\packages\\system.text.encodings.web\\4.6.0\\system.text.encodings.web.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

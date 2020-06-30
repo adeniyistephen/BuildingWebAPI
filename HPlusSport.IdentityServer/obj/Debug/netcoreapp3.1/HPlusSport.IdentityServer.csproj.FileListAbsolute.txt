@@ -1,0 +1,62 @@
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\HPlusSport.IdentityServer.exe
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\obj\Debug\netcoreapp3.1\HPlusSport.IdentityServer.csprojAssemblyReference.cache
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\obj\Debug\netcoreapp3.1\staticwebassets\HPlusSport.IdentityServer.StaticWebAssets.Manifest.cache
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\obj\Debug\netcoreapp3.1\staticwebassets\HPlusSport.IdentityServer.StaticWebAssets.xml
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\obj\Debug\netcoreapp3.1\HPlusSport.IdentityServer.AssemblyInfoInputs.cache
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\obj\Debug\netcoreapp3.1\HPlusSport.IdentityServer.AssemblyInfo.cs
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\obj\Debug\netcoreapp3.1\HPlusSport.IdentityServer.RazorTargetAssemblyInfo.cache
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\obj\Debug\netcoreapp3.1\HPlusSport.IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\HPlusSport.IdentityServer.deps.json
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\HPlusSport.IdentityServer.runtimeconfig.json
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\HPlusSport.IdentityServer.runtimeconfig.dev.json
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\HPlusSport.IdentityServer.dll
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\HPlusSport.IdentityServer.pdb
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\obj\Debug\netcoreapp3.1\HPlusSport.IdentityServer.csproj.CopyComplete
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\obj\Debug\netcoreapp3.1\HPlusSport.IdentityServer.dll
+C:\Users\Christian Wenz\source\repos\HPlusSport\HPlusSport.IdentityServer\obj\Debug\netcoreapp3.1\HPlusSport.IdentityServer.pdb
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\HPlusSport.IdentityServer.exe
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\HPlusSport.IdentityServer.deps.json
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\HPlusSport.IdentityServer.runtimeconfig.json
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\HPlusSport.IdentityServer.runtimeconfig.dev.json
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\HPlusSport.IdentityServer.dll
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\HPlusSport.IdentityServer.pdb
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\obj\Debug\netcoreapp3.1\HPlusSport.IdentityServer.csprojAssemblyReference.cache
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\obj\Debug\netcoreapp3.1\HPlusSport.IdentityServer.csproj.CoreCompileInputs.cache
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\obj\Debug\netcoreapp3.1\HPlusSport.IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\obj\Debug\netcoreapp3.1\HPlusSport.IdentityServer.AssemblyInfoInputs.cache
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\obj\Debug\netcoreapp3.1\HPlusSport.IdentityServer.AssemblyInfo.cs
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\obj\Debug\netcoreapp3.1\HPlusSport.IdentityServer.RazorTargetAssemblyInfo.cache
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\obj\Debug\netcoreapp3.1\HPlusSport.IdentityServer.csproj.CopyComplete
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\obj\Debug\netcoreapp3.1\staticwebassets\HPlusSport.IdentityServer.StaticWebAssets.Manifest.cache
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\obj\Debug\netcoreapp3.1\staticwebassets\HPlusSport.IdentityServer.StaticWebAssets.xml
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\obj\Debug\netcoreapp3.1\HPlusSport.IdentityServer.dll
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\obj\Debug\netcoreapp3.1\HPlusSport.IdentityServer.pdb
+C:\Users\Adeniyi Mary A\Downloads\Compressed\Ex_Files_Building_Web_APIs_ASPNET_Core\Exercise Files\End_0608\HPlusSport\HPlusSport.IdentityServer\obj\Debug\netcoreapp3.1\HPlusSport.IdentityServer.genruntimeconfig.cache
